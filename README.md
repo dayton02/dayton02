@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dayton02
 - 👀 I’m interested in gaming and a game developer 
-- 🌱 I’m currently learning more on C# 
+- 🌱 I’m currently learning web development during my free time
 - 📫 My portfolio: https://daytonng02.wixsite.com/portfolio
            Short and simple introduction :>
 <!---
