@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning web development during my free time
 - 📫 My portfolio: https://daytonng02.wixsite.com/portfolio
            Short and simple introduction :>
+           
+           
+ Goals in 2022:
+ - To make my own portfolio website!
 <!---
 dayton02/dayton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
