@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and a game developer 
 - 🌱 I’m currently learning web development during my free time
 - 📫 Current portfolio: https://daytonng02.wixsite.com/portfolio
-- [In Development] Portfolio: https://dayton02.github.io/portfolio/
+- [In Development] Portfolio: https://dayton02.github.io/Website-Portfolio/
 
            
            
