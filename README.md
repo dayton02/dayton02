@@ -12,7 +12,7 @@
  Goals in 2023:
  - Study Japanese
  - Try Air Pistol ✅
- - Get my OW cert
+ - Get my OW cert ✅
  - First race ✅
 <!---
 dayton02/dayton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
